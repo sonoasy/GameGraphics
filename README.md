@@ -3,6 +3,7 @@
 - particle system 
 - Unity VFX Graph
 - Universal Render Pipeline
+- Game Graphics PipeLine
 - Unity Shader Graph
 - Simulation 
 - 그외 ml,dl관련 기능
